@@ -1,5 +1,4 @@
-# essais-non-destructifs
-Réalisation d'essais non destructifs sur types variés de structures et analyse de résultats
+# Réalisation d'essais non destructifs sur types variés de structures et analyse de résultats
 
 
 > Signes précurseurs de fracture des roches
