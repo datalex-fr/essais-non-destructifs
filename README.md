@@ -2,16 +2,6 @@
 Réalisation d'essais non destructifs sur types variés de structures et analyse de résultats
 
 
----
-created: 2022-04-04T21:16:05 (UTC +02:00)
-tags: []
-source: https://uyt.gitbook.io/alexis/
-author: 
----
-
-# Internship RINCENT BTP - Alexis@datascience
-
-> ## Excerpt
 > Signes précurseurs de fracture des roches
 
 ---
