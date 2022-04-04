@@ -18,16 +18,12 @@ I Recherche et développement.
 
 II Auscultation par transparence sonique
 
-3.  3.
-    
-    Applications et exploitations
+3. Applications et exploitations
     
 
 III Auscultation par impédance mécanique
 
-3.  3.
-    
-    Applications et exploitations
+3. Applications et exploitations
     
 
 ## 
