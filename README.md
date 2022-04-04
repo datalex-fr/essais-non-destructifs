@@ -4,7 +4,6 @@ Réalisation d'essais non destructifs sur types variés de structures et analyse
 
 > Signes précurseurs de fracture des roches
 
----
 Les essais non destructifs dans le bâtiment et travaux publics attirent de plus en plus l'attention des industriels pour les avantages qu’ils apportent dans le domaine de la sécurité et sur le plan économique. Tester sans détruire et évaluer l'aptitude au bon fonctionnement sans altérer la tenue de service des structures reste leur avantage principal.
 
 ![](https://1099626939-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MhdSzY_7K9n5aQAlJq8%2F-MhePaJopH0i3BgDDsLj%2F-MhelYqPDl7LwLDuZRch%2Fimage.png?alt=media&token=f71cae38-faec-47e1-9693-55b248b940ac)
@@ -19,12 +18,16 @@ I Recherche et développement.
 
 II Auscultation par transparence sonique
 
-3. Applications et exploitations
+3.  3.
+    
+    Applications et exploitations
     
 
 III Auscultation par impédance mécanique
 
-3. Applications et exploitations
+3.  3.
+    
+    Applications et exploitations
     
 
 ## 
